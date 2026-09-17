@@ -32,8 +32,9 @@ decisions without requiring a shared component package yet:
 - Cancel stops pending analysis and multi-file mutation between atomic operations.
   Copy must state what already happened and whether completed work is undoable.
 - The tiny visible version belongs beside the display heading. The maker mark
-  belongs quietly in the footer; text alone is an explicit temporary fallback
-  only while the approved portrait asset is unavailable.
+  belongs quietly in the footer as the canonical circular portrait paired with
+  “A Ross Floate Thing”. Keep the portrait decorative to assistive technology so
+  the adjacent text provides one concise accessible identity.
 
 These are behaviour patterns learned from the real app. Extract source components
 only after the second implementation demonstrates that code reuse is worthwhile.
